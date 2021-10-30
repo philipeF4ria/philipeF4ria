@@ -1,6 +1,5 @@
 # Hi there, welcome to my profile 🖖🏻
 ### I'm Philipe, a full-stack developer 👨🏻‍💻
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/philipeF4ria)](https://github.com/philipeF4ria)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/philipe-faria/)](https://www.linkedin.com/in/philipe-faria/)
 
 - 🌎 I'm from Brazil
